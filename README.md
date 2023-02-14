@@ -1,14 +1,15 @@
 # AuRise Accessibility Checker
 
-Contributors: tessawatkinsllc
-Donate link: https://just1voice.com/donate/
-Tags: tota11y, totally, accessibility, a11y, accessible, neurodiversity, neurodivergent, accommodation, disability, legible reading, wcag, ada, Section 508, image alt text, quality assurance, qa, aria, landmarks, screen reader
-Requires at least: 4.6
-Tested up to: 6.1
-Stable tag: 1.0.0
-Requires PHP: 5.4
-License: GPLv2 or later
-License URI: https://www.gnu.org/licenses/gpl-2.0.html
+* WordPress Plugin Name: AuRise Accessibility Checker
+* WordPress Plugin URI: [View on WordPress.org](https://wordpress.org/plugins/aurise-accessibility-checker/) | [View on Author's Website](https://aurisecreative.com/accessibility-checker/)
+* Author: [AuRise Creative](https://profiles.wordpress.org/tessawatkinsllc/)
+* Author URI: [AuRiseCreative.com](https://aurisecreative.com/)
+* [Donate Link](https://just1voice.com/donate/)
+* Tags: tota11y, totally, accessibility, a11y, accessible, neurodiversity, neurodivergent, accommodation, disability, legible reading, wcag, ada, Section 508, image alt text, quality assurance, qa, aria, landmarks, screen reader
+* Requires at least: 4.6
+* Requires PHP: 5.4
+* License: GPLv2 or later
+* License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Visualize how your site works with assistive technologies to improve accessibility using tota11y.
 
